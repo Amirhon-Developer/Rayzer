@@ -1,0 +1,19 @@
+.store-div1{
+    display: flex;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.store-div1 img{
+    width: 100px;
+    height: 100px; 
+}
+.store-div1 h1{
+    color: aliceblue;
+    font-size: 25px;
+}
+.sto-obw{
+    background-color: #000;
+    height: 1000vh;
+}

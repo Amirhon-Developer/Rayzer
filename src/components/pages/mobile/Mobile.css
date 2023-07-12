@@ -1,0 +1,54 @@
+.mob-div1{
+    width: 100%;
+    text-align: center;
+    height: 65vh;
+    line-height: 30px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/91baf798ef1e551ef8d4e850c28a0050/razer-edge-1920x700-desktop-cat-banner.jpg);
+}
+.mob-div1 h1{
+font-size:45px ;
+font-weight: 500;
+color: white;
+}
+.mob-div1 h2{
+    color: gray;
+    font-size: 35px;
+    font-weight:350 ;
+}
+.mob-div1 h3{
+    font-size: 35px;
+    font-weight:350 ;
+    color: rgb(0, 255, 0);
+}
+.mob-div2{
+    width: 100%;
+    text-align: center;
+    height: 65vh;
+    line-height: 30px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/8d15cb8a565e71ef01f047785d22ce69/gothe-extramile-category-1920x700-desktop.jpg);
+}
+.mob-div2 h1{
+    font-size:45px ;
+    font-weight: 500;
+    color: white;
+    }
+    .mob-div2 h5{
+        font-size: 25px;
+        font-weight:350 ;
+        width: 1000px;
+        margin: 0 auto;
+        color: rgb(169, 169, 169);
+    }
+    .mob-div2 p{
+        font-size: 25px;
+        font-weight:350 ;
+        color: rgb(0, 255, 0);
+    }

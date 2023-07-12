@@ -1,0 +1,240 @@
+.pc-div1{
+    background-color: rgb(8, 7, 7);
+    text-align: center;
+    padding-top: 30px;
+    height: 250px;
+}
+.more{
+     color: rgb(0, 255, 0);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+ font-size: 27px;
+ padding-left: 270px;
+}
+
+.more i {
+    padding-top: 10px;
+}
+.space{
+    height: 50px;
+    background-color: rgb(21, 21, 21);
+}
+.pc-div1 h1{
+font-size:45px ;
+font-weight:300;
+color: rgb(6, 170, 6);
+}
+.pc-div1 h5{
+    width: 55%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: 250;
+    color: rgba(176, 168, 168, 0.912);
+  
+}
+.nv{
+    height: 90px;
+    color: white;
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    padding-top: 5px;
+    font-size: 17px;
+}
+.pc-div2{
+    background-color: rgb(21, 21, 21);
+    padding-top: 40px;
+}
+.pc-div2 img{
+width: 470px;
+}
+.pc-container{
+    width: 70%;
+    margin: 0 auto;
+}
+.pc-card1 {
+    width: 470px;
+    line-height: 13px;
+    background: #111;
+    border-bottom: 1px solid rgb(0, 255, 26);
+
+}
+.pc-card2 {
+    width: 470px;
+    line-height: 13px;
+    background: #111;
+    border-bottom: 1px solid rgb(0, 255, 26);
+}
+.pc-card3 {
+    width: 470px;
+    line-height: 13px;
+    background: #111;
+    border-bottom: 1px solid rgb(0, 255, 26);
+}
+.pc-div2  h1 {
+  font-size: 29px;
+  font-weight: 100;
+  color: aliceblue;
+}
+.pc-div2 h5 {
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 20px;
+  color: gray;
+  width: 370px;
+}
+.pc-div2  p{
+    color: rgb(0, 175, 0);
+    font-size: 20px;
+}
+.pc-display1{
+    display: flex;
+    justify-content: space-between;
+}
+.blu{
+    padding: 10px;
+}
+.pc-div3{
+    background-color:rgb(21, 21, 21) ;
+    padding-top: 20px;
+}
+.pc-div3-display1{
+    width: 700px;
+    padding-top: 50px;
+    text-align: center;
+    height: 700px;
+    border-bottom: 1px solid rgb(0, 255, 26);
+    background-size: cover;
+    background-position: center;
+    background-image:url(https://assets2.razerzone.com/images/pnx.assets/cd9237a6f61e604675e80e0c098f5a64/mice-category-558x587-desktop.jpg) ;
+}
+.pc-div3 h1{
+    color: white;
+    
+}
+.pc-div3 h2{
+    color: rgb(4, 255, 0);
+    font-size: 30px;
+  
+    padding-left: 270px;
+}
+.pc-display1{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.pc-div3-display2{
+    width: 700px;
+    padding-top: 50px;
+    text-align: center;
+    height: 700px;
+    border-bottom: 1px solid rgb(0, 255, 26);
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/cd9237a6f61e604675e80e0c098f5a64/mousemats-category-558x587-desktop.jpg);
+}
+.pc-div3-display3{
+    width: 700px;
+    padding-top: 50px;
+    text-align: center;
+    height: 700px;
+    border-bottom: 1px solid rgb(0, 255, 26);
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/cd9237a6f61e604675e80e0c098f5a64/keyboards-category-558x587-desktop.jpg);
+}
+.pc-div3-display4{
+    width: 700px;
+    border-bottom: 1px solid rgb(0, 255, 26);
+    padding-top: 50px;
+    text-align: center;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/cd9237a6f61e604675e80e0c098f5a64/audio-category-558x587-desktop.jpg);
+}
+.pc-div4{
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+    background-position: center;
+    
+    background-size: cover;
+    height: 700px;
+    border-bottom: 1px solid rgb(0, 255, 26);
+    background-repeat: no-repeat;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/cd2d636f26bd91dd99923c71b9e84a83/complete-your-set-up-1920x700-desktop-cat-banner.jpg);
+}
+.pc-div4 h1{
+font-size: 40px;
+color: white;
+font-weight: 400;
+}
+.pc-div4 h2{
+font-size: 25px;
+font-weight: 400;
+color: gray;
+}
+.pc-div4 p{
+font-size: 20px;
+color: rgb(0, 189, 0);
+}
+.display-card{
+    display: flex;
+    justify-content: space-between;
+}
+.pc-card4 {
+    width: 500px;
+    line-height: 30px;
+    background: #111;
+    border-bottom: 1px solid rgb(0, 255, 26);
+}
+.pc-div5{
+    background-color: rgb(21, 21, 21);
+    padding-top: 40px;
+}
+.pc-card4 h1 {
+   font-size: 30px;
+   font-weight: 400;
+   color: white;
+}
+.pc-card4 h5 {
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+ }
+ .pc-card4 p {
+    font-size: 20px;
+    font-weight: 400;
+    color: lime ;
+ }
+ .pc-div6{
+    width: 100%;
+    line-height: 30px;
+    padding-top: 30px;
+
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://assets2.razerzone.com/images/pnx.assets/d20a9f320f5d60e2b92043b7d4cc2f7a/ms-audio-banner-desktop.jpg);
+ }
+ .pc-div6 h1{
+font-size: 45px;
+font-weight: 400;
+color: rgb(0, 255, 0);
+ }
+ .pc-div6 h5{
+    font-size: 25px;
+    width: 500px;
+    font-weight: 400;
+    line-height: 40px;
+    color: gray;
+}
+.pc-div6 p{
+    width: 500px;
+    color: gray;
+}
+.text-1{
+padding-left: 60%;
+padding-top: 50px;
+}

@@ -1,0 +1,101 @@
+header {
+  background-image: linear-gradient(0deg, transparent 0, #000),
+    url(" https://assets2.razerzone.com/images/pnx.assets/0e80e38b843acf6f0b5b237456108a2d/razer-deathadder-v3-pro-hero-desktop.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
+.div1 {
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+
+  background-image: url(https://assets2.razerzone.com/images/pnx.assets/d24672112ff237ece31fd792eb39dba6/razer-enki-pro-koenigsegg-williams-esports-homepage-large.jpg);
+}
+.div2 {
+  height: 90vh;
+  background-image: url(https://assets2.razerzone.com/images/pnx.assets/d24672112ff237ece31fd792eb39dba6/razer-deathstalker-pro-tkl-homepage-large.jpg);
+}
+.head1 {
+  text-align: center;
+  padding-top: 50px;
+  line-height: 40px;
+  color: rgb(255, 255, 255);
+}
+.head1 h1 {
+  font-size: 55px;
+}
+.head1 h2 {
+  font-size: 40px;
+  font-weight: 300;
+}
+.orasi {
+  height: 10px;
+  background-color: #353535;
+}
+.gl {
+  display: flex;
+}
+.gl h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+.gl h2 {
+  font-size: 30px;
+}
+
+.c1 {
+  text-align: center;
+  height: 60vh;
+  color: white;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/84d0946021d11b959bda0545c4d4c234/razer-blade14-quartz-2022-950x580-desktop.jpg);
+}
+.c2 {
+  color: white;
+  text-align: center;
+  height: 60vh;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/84d0946021d11b959bda0545c4d4c234/razer-blackshark-v2-x-usb-950x580-desktop.jpg);
+}
+.c3 {
+  color: white;
+  text-align: center;
+  height: 60vh;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/84d0946021d11b959bda0545c4d4c234/razer-strider-chroma-b-950x580-desktop.jpg);
+}
+.c4 {
+  color: white;
+  text-align: center;
+  height: 60vh;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/31a38664ab12f98afc875824ad783084/new-razer-blade-15-2022-b-950x580-desktop.jpg);
+}
+.c5 {
+  color: white;
+  text-align: center;
+  height: 60vh;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/84d0946021d11b959bda0545c4d4c234/razer-back-to-school-aug22-b-950x580-desktop.jpg);
+}
+.c6 {
+  color: white;
+  text-align: center;
+  height: 60vh;
+  width: 50%;
+  background: url(https://assets2.razerzone.com/images/pnx.assets/8bb632d5659be24062984f7251e2692b/streamcontroller-homepage-desktop1x.jpg);
+}
+.vertu {
+  height: 60vh;
+  width: 10px;
+  background-color: #353535;
+}
+.learn {
+  align-items: center;
+  gap: 20px;
+  font-size: 30px;
+}
+span i {
+  color: rgb(0, 255, 0);
+}

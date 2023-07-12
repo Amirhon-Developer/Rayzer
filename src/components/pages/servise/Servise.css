@@ -1,0 +1,103 @@
+
+.ser-div1{
+    background-color:#111;
+    text-align: center;
+    padding-top: 30px;
+    height: 31vh;
+}
+.ser-div1 h1{
+font-size: 50px;
+color: rgb(0, 255, 0);
+font-weight: 300;
+}
+.ser-div1 h5{
+    font-size: 23px;
+    font-weight: 300;
+    color: rgb(144, 143, 143);
+    width: 100vh;
+    margin: 0 auto;
+}
+.ser-div2{
+    background-color: black;
+    height: 350px;
+}
+.ser-div2 input{
+    background: #333;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.input1{
+    display: flex;
+    gap: 100px;
+    
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 23%;
+}
+.ser-div2 button{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background: #333;
+    color: white;
+}
+.ser-div2 h1{
+   font-size: 50px;
+    color: rgb(0, 255, 0);
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 30px;
+}
+.ser-div3{
+    text-align: center;
+    height: 800px;
+    padding-top: 30px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://razer-shop.netlify.app/static/media/razercare.576fa91422a633f9c7b4.jpg);
+}
+.ser-div3 h1{
+font-size: 50px;
+font-weight: 400;
+color: white;
+}
+.ser-div3 p{
+    font-size: 25px;
+    font-weight: 400;
+    width: 900px;
+    color: gray;
+    margin: 0 auto;
+    }
+    .ser-div3 h3{
+        font-size: 30px;
+        color: rgb(0, 255, 0);
+        font-weight: 400;
+    }
+    .ser-div4{
+        text-align: center;
+        height: 800px;
+        padding-top: 30px;
+        background-size: cover;
+        background-position: center;
+        background-image: url(https://razer-shop.netlify.app/static/media/razerid.357554c057837828aad8.jpg);
+    }
+    .ser-div4 h1{
+        font-size: 50px;
+        font-weight: 400;
+        color: white;
+        }
+        .ser-div4 p{
+            font-size: 23px;
+            font-weight: 400;
+            width: 101vh;
+            color: gray;
+            margin: 0 auto;
+            }
+            .ser-div4 h3{
+                font-size: 30px;
+                color: rgb(0, 255, 0);
+                font-weight: 400;
+            }
